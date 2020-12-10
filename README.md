@@ -1,4 +1,4 @@
-# shoppingmall
+# shoppingmall（购物商城app）
 
 ## 1.项目简介
 ```
