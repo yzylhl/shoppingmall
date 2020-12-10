@@ -21,7 +21,7 @@
 1）首页部分
 
 主要包括5个部分：顶部导航栏，轮播图，分类，流行推荐，商品部分。
-![Image text](https://github.com/yzylhl/img/blob/main/imgs/80dbbbf644e408e1d8cbeda1b708a65.png)
+![Image](https://github.com/yzylhl/img/blob/main/imgs/80dbbbf644e408e1d8cbeda1b708a65.png)
 ```
 
 
