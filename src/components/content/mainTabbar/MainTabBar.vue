@@ -1,6 +1,6 @@
 <template>
-  <tab-bar>
-      <tab-bar-item path="/home" activeColor="blue">
+  <tab-bar class="tab-bar">
+      <tab-bar-item path="/home" activeColor="blue" >
         <img slot="item-icon" src="~assets/img/tabbar/home.svg" alt="">
         <img slot="item-icon-active" src="~assets/img/tabbar/shouye2.svg" alt="">
         <div slot="item-text">首页</div>
@@ -37,5 +37,13 @@ export default {
 </script>
 
 <style scoped>
+.tab-bar{
+  background-color: #fff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9;
 
+}
 </style>
