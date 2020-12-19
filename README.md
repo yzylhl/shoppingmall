@@ -60,25 +60,23 @@ npm run serve
         -childComps
   ```
 
-### 4. 项目部分截图展示
+### 4. 项目部分说明
 ```
 1）首页部分
 
 主要包括5个部分：顶部导航栏，轮播图，分类，流行推荐，商品部分。
 ```
- ![home1](https://img-blog.csdnimg.cn/2020112510121544.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3MTU1NTgy,size_16,color_FFFFFF,t_70)
- ![home2](https://img-blog.csdnimg.cn/20201125101315573.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3MTU1NTgy,size_16,color_FFFFFF,t_70)
 ```
 2）详情页部分
 
 主要包括7个部分：商品轮播图，商品信息，商家信息，商品图片，商品参数，商品评论以及推荐商品。
 ```
- ![detail1](https://img-blog.csdnimg.cn/20201125101430211.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3MTU1NTgy,size_16,color_FFFFFF,t_70)
+
 ```
 3）购物车部分
 
 主要包括2个部分：购物车商品以及结算：涉及的点为商品选中与全选的设置。
 ```
- ![cart2](https://img-blog.csdnimg.cn/20201125101642320.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3MTU1NTgy,size_16,color_FFFFFF,t_70)
+
 
 
